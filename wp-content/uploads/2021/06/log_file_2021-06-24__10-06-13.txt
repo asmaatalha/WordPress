@@ -1,0 +1,19 @@
+
+---Downloaded files---
+The import files for: Free Version were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2021/06/demo-content-import-file_2021-06-24__10-06-13.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/2021/06/demo-widgets-import-file_2021-06-24__10-06-13.json
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/uploads/2021/06/demo-customizer-import-file_2021-06-24__10-06-13.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
