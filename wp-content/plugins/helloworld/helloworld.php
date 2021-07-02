@@ -16,7 +16,7 @@
     {
         $content = '';
 
-        $content .= '<form method="post" action="http://localhost/wordpress/?page_id=1461">';
+        $content .= '<form method="post" action="#">';
 
         $content .= '<input type="text" name="name" placeholder="Name"><br>';
 
