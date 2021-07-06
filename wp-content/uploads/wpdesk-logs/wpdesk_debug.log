@@ -1,0 +1,2 @@
+[2021-07-05 08:44:00] wpdesk.DEBUG: Sender payload: {"click_action":"no","url":"http:\/\/localhost\/wordpress","localhost":"no"} {"source":"wpdesk-sender"} []
+[2021-07-05 08:44:01] wpdesk.DEBUG: Sender response: {"headers":[],"body":"","response":{"code":false,"message":false},"cookies":[],"http_response":null} {"source":"wpdesk-sender"} []
